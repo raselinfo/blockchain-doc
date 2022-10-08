@@ -2,7 +2,7 @@
 
 ## What is blockchain?
 
-## Blockchain Applications.
+## List of Blockchain Applications.
 
 ## What is Smart Contact?
 
