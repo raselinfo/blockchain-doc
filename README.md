@@ -16,4 +16,4 @@ hashing algorithm is one way.
 
 ## Blockchain Mining
 
-## Byzantine Generals. And it's Problem.
+## Byzantine Generals. And it's Problem and how it's works. 
