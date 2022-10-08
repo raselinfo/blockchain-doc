@@ -15,3 +15,5 @@ hashing algorithm is one way.
 ## What is P2P Network in blockchain? Different between centralized vs decentralized.
 
 ## Blockchain Mining
+
+## Byzantine Generals. And it's Problem.
