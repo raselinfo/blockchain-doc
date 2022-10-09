@@ -36,3 +36,5 @@ it's protect us
 ## Second Module
 
 ### What is bitcoin?
+
+### How Mining works? (খনন)
