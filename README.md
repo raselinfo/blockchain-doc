@@ -38,3 +38,7 @@ it's protect us
 ### What is bitcoin?
 
 ### How Mining works? (খনন)
+
+### What is nonce?How Nonce works? Nonce Range.
+
+### Timestamp
